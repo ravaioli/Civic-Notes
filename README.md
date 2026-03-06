@@ -4,7 +4,7 @@
 
 CivicNotes transforms how communities interact with local government. By making public meetings, agendas, and decisions visible, accountable, and actionable, it empowers residents, organizations, and officials to co‑create a healthier, more participatory democracy.
 
-<img src="https://github.com/ravaioli/Civic-Notes/blob/main/docs/CivicNote.png" alt="CivicNotes" style="width:75%; height:auto;">
+<img src="https://github.com/ravaioli/Civic-Notes/blob/main/docs/CivicNotes_Typo.png" alt="CivicNotes" style="width:75%; height:auto;">
 ---
 
 ## Vision
