@@ -35,11 +35,11 @@ Inspired by the [Solarpunk Mandala](https://github.com/ravaioli/solarpunk-mandal
 | Concept | Description |
 |---------|-------------|
 | **Φ‑Score** | The visible heartbeat of civic discourse – see [Φ‑Score Calculation](appendices/ph-score-calculation.md). |
-| **CivicNote** | The basic unit of conversation – see [Leaving Notes](user-guide/leaving-notes.md). |
-| **Promise Tracker** | Accountability engine – see [Tracking Promises](user-guide/tracking-promises.md) and [Promise Tracker Algorithm](appendices/promise-tracker-algorithm.md). |
-| **Guilds** | Collective power – see [Creating a Guild](guild-guide/creating-guild.md). |
-| **Petitions** | Organized will – see [Petitions](user-guide/petitions.md). |
-| **Regenerative Actions** | Solution templates – see [Action Library](../actions/overview.md). |
+| **CivicNote** | The basic unit of conversation – see [Leaving Notes](docs/user-guide/leaving-notes.md). |
+| **Promise Tracker** | Accountability engine – see [Tracking Promises](docs/user-guide/tracking-promises.md). |
+| **Guilds** | Collective power – see [Creating a Guild](docs/guild-guide/creating-guild.md). |
+| **Petitions** | Organized will – see [Petitions](docs/user-guide/petitions.md). |
+| **Regenerative Actions** | Solution templates – see [Action Library](https://github.com/ravaioli/solarpunk-mandala/blob/main/knowledge_base/circles/SolarPunk%20Sangha%20-%20%E2%9D%87%EF%B8%8F%20Regenerative%20Actions%20CMS%20Export.csv). |
 
 ---
 
