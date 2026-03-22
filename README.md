@@ -34,7 +34,7 @@ Inspired by the [Solarpunk Mandala](https://github.com/ravaioli/solarpunk-mandal
 
 | Concept | Description |
 |---------|-------------|
-| **Φ‑Score** | The visible heartbeat of civic discourse – see [Φ‑Score Calculation](appendices/ph-score-calculation.md). |
+| **Φ‑Score** | The visible heartbeat of civic discourse – see [Φ‑Score Calculation](docs/appendices/ph-score-calculation.md). |
 | **CivicNote** | The basic unit of conversation – see [Leaving Notes](docs/user-guide/leaving-notes.md). |
 | **Promise Tracker** | Accountability engine – see [Tracking Promises](docs/user-guide/tracking-promises.md). |
 | **Guilds** | Collective power – see [Creating a Guild](docs/guild-guide/creating-guild.md). |
