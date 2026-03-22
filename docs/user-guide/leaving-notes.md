@@ -168,7 +168,7 @@ Watch for:
 
 ## Next Steps
 
-- **[Tracking Promises](../promise-tracker.md)** – Learn how your notes can lead to accountability.
+- **[Tracking Promises](tracking-promises.md)** – Learn how your notes can lead to accountability.
 - **[Joining a Guild](../guild-guide/creating-guild.md)** – Connect with others who share your interests.
 - **[Starting a Petition](petitions.md)** – Turn a note into a formal community demand.
 
